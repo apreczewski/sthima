@@ -56,7 +56,7 @@ const Dashboard: React.FC = () => {
     } else {
       try {
         setLoading(true);
-        // signal = source;
+        // signal = source; //
         const { data } = await apiCall({ movieName: name, page });
 
         const { Search: listMovies, totalResults, Response } = data;
