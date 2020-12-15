@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals = 2; plural = (n != 1);\n"
+"Language: pt-br\n"
+"mime-version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/pages/Dashboard/index.tsx:45
+msgid "test2"
+msgstr "teste2"
+
+#: src/pages/Dashboard/index.tsx:46
+msgid "test5"
+msgstr "test3"
+
+#: src/pages/Dashboard/index.tsx:44
+msgid "dfskdfsldkfsdlfkmslfmad dlfs;dlfsd;f, yyyyyy"
+msgstr ""
